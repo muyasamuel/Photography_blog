@@ -74,6 +74,19 @@ nav ul li{
     
     
 }
+.home-text-content h3{
+    font-family: 'Quintessential', cursive ,sans-serif;
+    font-size: 30px;
+
+
+}
+.home-text-content h2{
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-shadow: var(--sec-color);
+    font-size: 30px;
+
+}
 
 
 
