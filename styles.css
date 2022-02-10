@@ -164,4 +164,9 @@ nav ul li{
     letter-spacing: 8px;
     
 }
-
+.gallerys-header hr{
+    width: 20%;
+    margin: auto;
+    margin-top: 5px;
+    
+}
