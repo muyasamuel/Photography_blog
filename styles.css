@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Mochiy+Pop+One&family=Oswald:wght@200;300;400;500&family=Poppins:wght@200;300;500&family=Quintessential&family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -6,9 +8,13 @@
 
 .logo{
     margin-left: 25px;
+    font-family: 'Quintessential', cursive;
 
 }
+body{
+    font-family: 'Roboto', sans-serif
 
+}
 .header{
     width: 100%;
     height: 40px;
