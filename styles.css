@@ -155,3 +155,13 @@ nav ul li{
     background-color: var(--sec-color);
     clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
 }
+
+
+.gallerys-header{
+    color: var(--text-color);
+    padding-top: 50px;
+    text-align: center;
+    letter-spacing: 8px;
+    
+}
+
