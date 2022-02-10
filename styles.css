@@ -21,6 +21,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
 }
 .header{
     width: 100%;
