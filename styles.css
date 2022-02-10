@@ -153,6 +153,7 @@ nav ul li{
     width: 100%;
     height: 80vh;
     background-color: var(--sec-color);
+    position: relative;
     clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
 }
 
@@ -186,4 +187,18 @@ nav ul li{
     object-fit: cover;
     object-position: center;
 
+}
+.btn{
+    color: var(--text-color);
+    position: absolute;
+    left: 47%;
+    bottom: 45px;
+    background-color: var(--main-color);
+    padding: 15px;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+
+    
 }
