@@ -145,3 +145,12 @@ nav ul li{
     color: var(--main-color);
 }
 
+/* gallery section */
+
+
+.gallery-section{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--sec-color);
+    clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
+}
