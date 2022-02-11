@@ -227,4 +227,18 @@ nav ul li{
     padding-left: 7px;
     cursor: pointer;
     
+
+   
 }
+ .service-btn{
+        text-decoration: none;
+        margin-top: 7px;
+        background-color: var(--main-color);
+        padding: 10px;
+        text-transform: uppercase;
+        outline: none;
+        border: none;
+        border-radius: 7px;
+        
+       
+    }
