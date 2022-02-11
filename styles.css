@@ -186,7 +186,11 @@ nav ul li{
     height: 250px;
     object-fit: cover;
     object-position: center;
+    transition: 1s ease;
 
+}
+.gallery-pics img:hover{
+    transform: scale(1.2);
 }
 .btn{
     color: var(--text-color);
