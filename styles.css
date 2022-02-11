@@ -199,8 +199,15 @@ nav ul li{
     outline: none;
     border: none;
     border-radius: 7px;
+    transition: .4s ease;
+    cursor: pointer;
 
     
+}
+.btn:hover{
+    background-color: var(--text-color);
+    color: var(--sec-color);
+  
 }
 
 
@@ -239,6 +246,7 @@ nav ul li{
         outline: none;
         border: none;
         border-radius: 7px;
+        cursor: pointer;
         
        
     }
